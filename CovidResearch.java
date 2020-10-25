@@ -1,7 +1,7 @@
 import javax.swing.JOptionPane;
 import java.io.*;
 import java.util.*;
-public class Program_9_2
+public class CovidResearch
 {
 
   /*
