@@ -34,7 +34,8 @@ With many programming courses mentioning the project of a bank application, I de
   <li>PrintWriter indexing && File() indexing</li>
       <li>Mathematics involving Standard Deviation and Z-Scores</li>
       </ul>
-  Areas of Improvement:<ul>
+  Areas of Improvement:
+  <ul>
       <li>Code Organization and bracket tracing</li>
       <li>Nested loop while() constructers</li>
       <li>Figure out the Standard Deviation Bug w/alternate formulaes</li></ul>
