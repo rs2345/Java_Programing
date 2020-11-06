@@ -7,9 +7,10 @@ slides provided, with permission, by my programming professor.
 With challenging assignments, I am typically heavy on the comments.  I like to expose my thoughts and paths of thinking to show I how I tackle coding problems.  
 Inside each program, you will typically see the following:
 <ul>
-  <li>-Thoughts on the program</li>
-  <li>-Areas of focus</li>
-  <li>-Areas of improvements</li>
+  <li>Thoughts on the program</li>
+  <li>Areas of focus</li>
+  <li>Areas of improvements</li>
+  </ul>
 
 Throughout my code you can also find console toolkits that I develop to help with debugging.  Depending on the size of console logs, I comment out certain toolkits
 to keep the console clean with relevent information.
@@ -23,6 +24,21 @@ The Main Bank Application has two dependancies that need to be available to each
 (Personal Project)
 
 With many programming courses mentioning the project of a bank application, I decided to concieve my own idea of a bank app with the features and functialities that I wanted to learn.  This program has had many areas of focus and I will list the outcomes I was hoping to acheive and what features I want to learn about and implement into my code.  
+
+  Areas of focus:
+      ArrayList() w/sorting
+      BubbleSorts() - though I did code out a bubblesort  I opt'd out  because it wasn't producing the desired outcomes
+      Math library for flooring and transposing doubles into int's for formatting
+      Heavy nested looping
+      PrintWriter indexing && File() indexing
+      Mathematics involving Standard Deviation and Z-Scores.
+
+    Areas of Improvement:
+      Code Organization and bracket tracing
+      Nested loop while() constructers
+      Figure out the Standard Deviation Bug w/alternate formulaes
+
+    Time Spent : 12hrs +/- 1.5hrs
 
 
 
