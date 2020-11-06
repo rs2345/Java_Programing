@@ -6,10 +6,10 @@ slides provided, with permission, by my programming professor.
 
 With challenging assignments, I am typically heavy on the comments.  I like to expose my thoughts and paths of thinking to show I how I tackle coding problems.  
 Inside each program, you will typically see the following:
-
-  -Thoughts on the program
-  -Areas of focus
-  -Areas of improvements
+<ul>
+  <li>-Thoughts on the program</li>
+  <li>-Areas of focus</li>
+  <li>-Areas of improvements</li>
 
 Throughout my code you can also find console toolkits that I develop to help with debugging.  Depending on the size of console logs, I comment out certain toolkits
 to keep the console clean with relevent information.
