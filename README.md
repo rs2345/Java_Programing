@@ -31,15 +31,14 @@ With many programming courses mentioning the project of a bank application, I de
       Math library for flooring and transposing doubles into int's for formatting
       Heavy nested looping
       PrintWriter indexing && File() indexing
-      Mathematics involving Standard Deviation and Z-Scores.
-
-    Areas of Improvement:
+      Mathematics involving Standard Deviation and Z-Scores
+      
+  Areas of Improvement:
       Code Organization and bracket tracing
       Nested loop while() constructers
       Figure out the Standard Deviation Bug w/alternate formulaes
-
-    Time Spent : 12hrs +/- 1.5hrs
-
+      
+      Time Spent: 12hrs +/- 1hr
 
 
 <b>COVID Research</b>
