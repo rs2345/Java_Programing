@@ -26,6 +26,7 @@ The Main Bank Application has two dependancies that need to be available to each
 With many programming courses mentioning the project of a bank application, I decided to concieve my own idea of a bank app with the features and functialities that I wanted to learn.  This program has had many areas of focus and I will list the outcomes I was hoping to acheive and what features I want to learn about and implement into my code.  
 
   Areas of focus:<ul>
+  
   <li>ArrayList() w/sorting</li>
       <li>BubbleSorts() - though I did code out a bubblesort  I opt'd out  because it wasn't producing the desired outcomes</li>
       <li>Math library for flooring and transposing doubles into int's for formatting</li>
