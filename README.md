@@ -4,17 +4,32 @@ Hello and welcome to my Java Program repository.  In this branch I will be uploa
 programs that I have completed in class.  To see what the intended final results were, please view the associated power point
 slides provided, with permission, by my programming professor.
 
+With challenging assignments, I am typically heavy on the comments.  I like to expose my thoughts and paths of thinking to show I how I tackle coding problems.  
+Inside each program, you will typically see the following:
+
+  -Thoughts on the program
+  -Areas of focus
+  -Areas of improvements
+
+Throughout my code you can also find console toolkits that I develop to help with debugging.  Depending on the size of console logs, I comment out certain toolkits
+to keep the console clean with relevent information.
+
+Below I will list out the programs that have been uploaded with relevant insights for what to expect.
+
+
+<b>Banking Application</b>
+
 The Main Bank Application has two dependancies that need to be available to each other.
 (Personal Project)
-
-Banking Application
 
 With many programming courses mentioning the project of a bank application, I decided to concieve my own idea of a bank app with the features and functialities that I wanted to learn.  This program has had many areas of focus and I will list the outcomes I was hoping to acheive and what features I want to learn about and implement into my code.  
 
 
 
-COVID Research
+<b>COVID Research</b>
 
-This was an assignment that was given by my Professor in Java 101.  It 
+This was an assignment that was given by my Professor in Java 101.  It involves writing/reading/analysis of data files that hold diametric values of covid particles.  The user will be able to input diameters and find multiple outputs such as min/max, mean, and standard deviation.  
+
+Requirements for this program is available in the power point deck provided by the professor.
 
 -Ricky
