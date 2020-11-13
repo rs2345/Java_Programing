@@ -50,4 +50,7 @@ This was an assignment that was given by my Professor in Java 101.  It involves 
 
 Requirements for this program is available in the power point deck provided by the professor.
 
+<b>Program_11_1</b>
+This program is a credit card validation algorithm.  It allows the user to either enter a credit card number to validate, or enter an account number that will return the "check digit" that will provide a valid credit card number to the account number.
+
 -Ricky
