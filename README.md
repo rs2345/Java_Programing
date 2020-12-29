@@ -1,4 +1,4 @@
-# Java_Programing
+# Java_Programming
 
 Hello and welcome to my Java Program repository.  In this branch I will be uploading code from personal projects along with 
 programs that I have completed in class.  To see what the intended final results were, please view the associated power point
